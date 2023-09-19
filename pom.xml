@@ -34,6 +34,29 @@
             <version>6.8.0</version>
         </dependency>
 
+        <!--		Database 			-->
+        <dependency>
+            <groupId>org.postgresql</groupId>
+            <artifactId>postgresql</artifactId>
+            <scope>runtime</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-data-jpa</artifactId>
+        </dependency>
+
+        <!--		Mail  				-->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-mail</artifactId>
+        </dependency>
+        <!--		Template 			-->
+        <dependency>
+            <groupId>org.freemarker</groupId>
+            <artifactId>freemarker</artifactId>
+            <version>2.3.32</version>
+        </dependency>
+
 <!--        <dependency>-->
 <!--            <groupId>com.github.ndanhkhoi</groupId>-->
 <!--            <artifactId>simple-telegram-command-bot-spring-boot-starter</artifactId>-->
