@@ -1,6 +1,6 @@
-khoinda:
-  bot:
-    username: pat_cmc_bot
-    token: 6670723908:AAEuURQNvDnysYsxfHLxWYzVA8I7ujwMIXA
-    bot-route-packages:
-      - com.example.demo
+#khoinda:
+#  bot:
+#    username: pat_cmc_bot
+#    token: 6670723908:AAEuURQNvDnysYsxfHLxWYzVA8I7ujwMIXA
+#    bot-route-packages:
+#      - com.example.demo
